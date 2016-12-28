@@ -4,4 +4,6 @@ Hi!
 
 I am Sukrit Gupta. 
 
-This file is just a test file.
+This Project shows how you can use webview to show your website.
+
+Action bar is not shown.
