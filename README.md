@@ -1,5 +1,5 @@
 # Android-Project
-Lean and Share
+Learn and Share
 Hi!
 
 I am Sukrit Gupta. 
