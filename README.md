@@ -4,6 +4,6 @@ Hi!
 
 I am Sukrit Gupta. 
 
-This Project shows how you can use webview to show your website.
 
-Action bar is not shown.
+This project shows how to use Webview without any AppBar.
+Make your website a dedicated app.
